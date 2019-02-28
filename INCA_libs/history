@@ -1,0 +1,16 @@
+//
+// File created by:  irun
+// Do not modify this file
+
+s1::(24Feb2019:11:52:09):( irun -access +rwc top_alu.v )
+s2::(24Feb2019:12:10:33):( irun -access +rwc top_alu.v top_alu_tb.v )
+s3::(24Feb2019:12:11:08):( irun -access +rwc top_alu.v top_alu_tb.v )
+s4::(24Feb2019:12:17:58):( irun -access +rwc top_alu.v top_alu_tb.v )
+s5::(24Feb2019:12:18:32):( irun -access +rwc top_alu.v top_alu_tb.v )
+s6::(24Feb2019:12:19:10):( irun -access +rwc top_alu.v top_alu_tb.v )
+s7::(24Feb2019:12:22:37):( irun -access +rwc top_alu.v top_alu_tb.v )
+s8::(26Feb2019:07:57:46):( irun -access -f compile.f )
+s9::(26Feb2019:08:00:46):( irun -access +rwc -f compile.f )
+s10::(26Feb2019:07:59:18):( irun -access +rwc -f compile.f )
+s11::(26Feb2019:08:03:17):( irun -access +rwc -f compile.f )
+s12::(26Feb2019:08:14:17):( irun -access +rwc -f compile.f )

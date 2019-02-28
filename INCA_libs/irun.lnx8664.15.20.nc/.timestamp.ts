@@ -1,0 +1,17 @@
+1550633553 /home/vv2trainee20/Desktop/alu/rtl/or.v
+1551149054 /home/vv2trainee20/Desktop/alu/rtl/alu_top.v
+1551148331 /home/vv2trainee20/Desktop/alu/rtl/alu_tb.v
+1550991154 /home/vv2trainee20/Desktop/alu/rtl/top_alu_tb.v
+1550633622 /home/vv2trainee20/Desktop/alu/rtl/nand.v
+1550703413 /home/vv2trainee20/Desktop/alu/rtl/and.v
+1550989666 /home/vv2trainee20/Desktop/alu/rtl/SAR.v
+1550610751 /home/vv2trainee20/Desktop/alu/rtl/SRL.v
+1551148392 /home/vv2trainee20/Desktop/alu/rtl/ROR.v
+1551148019 /home/vv2trainee20/Desktop/alu/rtl/DPA2.v
+1550989663 /home/vv2trainee20/Desktop/alu/rtl/ROL.v
+1550989661 /home/vv2trainee20/Desktop/alu/rtl/not.v
+1550708363 /home/vv2trainee20/Desktop/alu/rtl/nor.v
+1550703405 /home/vv2trainee20/Desktop/alu/rtl/xnor.v
+1550990997 /home/vv2trainee20/Desktop/alu/rtl/top_alu.v
+1550703422 /home/vv2trainee20/Desktop/alu/rtl/SLL.v
+1550633461 /home/vv2trainee20/Desktop/alu/rtl/xor.v

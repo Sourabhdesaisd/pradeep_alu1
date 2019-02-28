@@ -1,0 +1,19 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
+/home/vv2trainee20/Desktop/alu/rtl/DPA2.v
+/home/vv2trainee20/Desktop/alu/rtl/and.v
+/home/vv2trainee20/Desktop/alu/rtl/or.v
+/home/vv2trainee20/Desktop/alu/rtl/xor.v
+/home/vv2trainee20/Desktop/alu/rtl/nand.v
+/home/vv2trainee20/Desktop/alu/rtl/nor.v
+/home/vv2trainee20/Desktop/alu/rtl/xnor.v
+/home/vv2trainee20/Desktop/alu/rtl/SLL.v
+/home/vv2trainee20/Desktop/alu/rtl/SRL.v
+/home/vv2trainee20/Desktop/alu/rtl/SAR.v
+/home/vv2trainee20/Desktop/alu/rtl/ROR.v
+/home/vv2trainee20/Desktop/alu/rtl/ROL.v
+/home/vv2trainee20/Desktop/alu/rtl/not.v
+/home/vv2trainee20/Desktop/alu/rtl/alu_top.v
+/home/vv2trainee20/Desktop/alu/rtl/alu_tb.v
